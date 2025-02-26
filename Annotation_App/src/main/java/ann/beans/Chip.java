@@ -7,6 +7,7 @@ public class Chip {
 	
 	public Chip() {
 		System.out.println("Chip :: Constructor.");
+		System.out.println("Giri");
 	}
 
 	public String chipType() {
